@@ -6,13 +6,17 @@ public class beecrowd1248 {
     public static int alitera(String x) {
         String[] repartida = x.split(" ");
         int qtd = 0;
+        boolean verify = false;
         for (int i = 0; i < repartida.length-1; i++) {
             if (repartida[i].toLowerCase().charAt(0) == repartida[i+1].toLowerCase().charAt(0)){
-                qtd++;
+                if (verify == false) {
+                    qtd++;
+                }
+                verify = true;
             } else {
+                verify = false;
             }
         }
-        
         return qtd;   
     }
     
