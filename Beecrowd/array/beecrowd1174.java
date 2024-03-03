@@ -11,6 +11,6 @@ public class beecrowd1174 {
                 System.err.printf("A[%d] = %d\n", i, valor);
             }
         }        
-    
+        entrada.close();
     }
 }

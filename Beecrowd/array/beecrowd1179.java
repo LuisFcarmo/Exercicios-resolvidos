@@ -1,4 +1,3 @@
-import java.util.List;
 import java.util.Scanner;
 
 public class beecrowd1179 {
@@ -25,5 +24,6 @@ public class beecrowd1179 {
             }
         }
         System.out.printf("Menor valor: %d\nPosicao: %d ", menor, position);
+        entrada.close();
     }
 }

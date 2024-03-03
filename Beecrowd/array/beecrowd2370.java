@@ -4,7 +4,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-
 public class beecrowd2370 {
     static List <jogador> array; 
 

@@ -16,6 +16,6 @@ public class beecrowd1173 {
         for (int i = 0; i < 10; i++) {
             System.out.printf("N100[%d] = %d\n", i, array[i]);
         }
-
+        entrada.close();
     }
 }

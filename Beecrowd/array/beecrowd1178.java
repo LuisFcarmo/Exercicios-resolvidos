@@ -9,5 +9,6 @@ public class beecrowd1178 {
             System.out.printf("X[%d] = %.2f\n", i, numero);
             numero /= 2;
         }
+        entrada.close();
     }
 }

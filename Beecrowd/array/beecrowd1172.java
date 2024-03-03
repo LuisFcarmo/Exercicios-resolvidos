@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class beecrowd1172 {
@@ -19,5 +17,6 @@ public class beecrowd1172 {
         for (int i = 0; i < 10; i++) {
             System.out.printf("X[%d] = %d", i, array[i]);
         }
+        entrada.close();
     }
 }

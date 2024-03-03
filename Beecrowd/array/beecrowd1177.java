@@ -8,5 +8,6 @@ public class beecrowd1177 {
         for (int i = 0; i < 1000; i++) {
             System.out.printf("N[%d] = %d\n", i, i%escolhido);
         }
+        entrada.close();
     }
 }
