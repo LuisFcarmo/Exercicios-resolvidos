@@ -1,0 +1,16 @@
+EXERCÍCIOS
+1.1 Suponha que você tenha uma lista com 128 nomes e esteja fazendo uma
+pesquisa binária. Qual seria o número máximo de etapas que você levaria
+para encontrar o nome desejado?
+
+uma lista com 128 nomes basta usar o tempo de execução da busca binaria que é log 2 n
+
+2^7 ou seja 7 passos necessarios
+
+
+1.2 Suponha que você duplique o tamanho da lista. Qual seria o número
+máximo de etapas agora?
+
+pois agora temos 256 nomes
+
+2^8 ou seja 8 passsos necessarios
