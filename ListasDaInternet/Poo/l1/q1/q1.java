@@ -1,4 +1,5 @@
-package q1;
+package l1.q1;
+
 public class q1 {
     public static void main(String[] args) {
         System.out.println(primo.isPrime(2));
@@ -6,5 +7,5 @@ public class q1 {
         System.out.println(primo.isPrime(4));
         System.out.println(primo.isPrime(10));
         System.out.println(primo.isPrime(7));
-    }   
+    }
 }

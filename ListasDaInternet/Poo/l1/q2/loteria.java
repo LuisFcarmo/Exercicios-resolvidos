@@ -1,4 +1,4 @@
-package q2;
+package l1.q2;
 
 public class loteria {
     private int numero_premiado;
