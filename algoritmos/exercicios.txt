@@ -1,0 +1,54 @@
+2.1 deve-se usar listas encadeadas porque o problema sera adicionar varios itens e não ler eles
+como o tempo de inserção das listas encadedas são lineares isso facilitara a eficiência do programa
+
+2.2 Suponha que você esteja criando um aplicativo para anotar os pedidos
+dos clientes em um restaurante. Seu aplicativo precisa de uma lista de
+pedidos. Os garçons adicionam os pedidos a essa lista e os chefes retiram
+os pedidos da lista. Funciona como uma la. Os garçons colocam os
+pedidos no nal da la e os chefes retiram os pedidos do começo dela
+para cozinhá-los.
+
+eu usaria lista encadeadas para ser mais espécifico usaria a estratura de dados fila porque manteria
+a logica de inserção dos pedidos já que a estratura fila usa a logica fifo first in first out
+ou seja os primeiros pedidos devem ser os primeiros a serem atendidos pelos chefes de cozinha,
+ou seja os garçons devem colocar os pedidos no começo.
+
+----------------------------------------------------------------------------------------------
+2.3 Vamos analisar um experimento. Imagine que o Facebook guarda umalista de usuários. Quando alguém tenta acessar o Facebook, uma busca é
+feita pelo nome de usuário. Se o nome da pessoa está na lista, ela pode
+continuar o acesso. As pessoas acessam o Facebook com muita
+frequência, então existem muitas buscas nessa lista. Presuma que o
+Facebook usa a pesquisa binária para procurar um nome na lista. A
+pesquisa binária requer acesso aleatório – você precisa ser capaz de
+acessar o meio da lista de nomes instantaneamente. Sabendo disso, você
+implementaria essa lista como um array ou uma lista encadeada?
+
+neste caso utilizaria array por dois motivos especificos primeiro como é utilizado busca binaria para
+localizar o id de cada usuário isso necessita que o array estejá ordenado oque é uma operação mais facilmente
+implementado nos array, fora que como o processo necessita de acessos aleatorios no array oque é 
+uma operação ineficiente nas listas encadeadas
+
+--------------------------------------------------------------------------------------------------
+
+As pessoas se inscrevem no Facebook com muita frequência também.
+Suponha que você decida usar um array para armazenar a lista de
+usuários. Quais as desvantagens de um array em relação às inserções? Em
+particular, imagine que você está usando a pesquisa binária para buscar
+os logins. O que acontece quando você adiciona novos usuários em um
+array?
+
+as desvantagens são as seguintes gasto desnecessário de memoria pode ser que não tenha espaço suficiente
+no array para registrar tal dado outra, desvantagem do array é que a cada nova pessoa adicionada caso ela tenha um id
+aleatorio o array tera que ser reordenado para manter a ordem já que a busca binaria necessita que o array
+esteja ordenado para ela funcionar
+
+--------------------------------------------------------------------------------------------------
+
+3.2 Suponha que você acidentalmente escreva uma função recursiva que
+que executando in nitamente. Como você viu, seu computador aloca
+memória na pilha para cada chamada de função. O que acontece com a
+pilha quando a função recursiva ca executando in nitamente?
+
+o sistema operacional vai continuar olocando memoria para pilha de recursão e travando o computador
+possivelmente o proproi sistema operacional vai matar o programa mas, caso isso não aconteça o computador 
+ira travar.
