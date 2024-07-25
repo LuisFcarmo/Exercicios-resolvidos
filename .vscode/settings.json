@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "ListasDaInternet/Poo",
+    "LEETCODE",
+    "CSES",
+    "Beecrowd/pilhas",
+    "Beecrowd/array",
+    "Beecrowd/strings"
+  ]
+}
