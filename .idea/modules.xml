@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beecrowd/Beecrowd.iml" filepath="$PROJECT_DIR$/Beecrowd/Beecrowd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios-resolvidos.iml" filepath="$PROJECT_DIR$/Exercicios-resolvidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasDaInternet/ListasDaInternet.iml" filepath="$PROJECT_DIR$/ListasDaInternet/ListasDaInternet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasDaInternet/TemasDiversos/TemasDiversos.iml" filepath="$PROJECT_DIR$/ListasDaInternet/TemasDiversos/TemasDiversos.iml" />
+    </modules>
+  </component>
+</project>
