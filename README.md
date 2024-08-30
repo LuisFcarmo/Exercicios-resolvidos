@@ -1,13 +1,6 @@
 # Repositório de Soluções de Exercícios de Programação
 
 Este repositório contém soluções para exercícios de programação de vários sites de programação competitiva. As soluções estão organizadas em diferentes pastas com base no site e na categoria do exercício.
-
-## Linguagens Usadas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&repo=Exercicios-resolvidos&theme=tokyonight)
-
-> Nota: As porcentagens no gráfico são baseadas na quantidade de arquivos por linguagem.
-
 ## Principais Badges
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/LuisFcarmo/Exercicios-resolvidos)
