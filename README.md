@@ -4,22 +4,26 @@ Este repositório contém soluções para exercícios de programação de vário
 
 ## Linguagens Usadas
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&repo=Exercicios-resolvidos&theme=tokyonight&layout=compact)
+![Distribuição das Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&repo=Exercicios-resolvidos&theme=tokyonight&layout=compact)
 
-## Estrutura do Repositório
+> Nota: As porcentagens no gráfico são baseadas na quantidade de arquivos por linguagem.
+
+## Principais Badges
+
+![GitHub repo size](https://img.shields.io/github/repo-size/LuisFcarmo/Exercicios-resolvidos)
+![GitHub stars](https://img.shields.io/github/stars/LuisFcarmo/Exercicios-resolvidos?style=social)
+![GitHub forks](https://img.shields.io/github/forks/LuisFcarmo/Exercicios-resolvidos)
+![GitHub issues](https://img.shields.io/github/issues/LuisFcarmo/Exercicios-resolvidos)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/LuisFcarmo/Exercicios-resolvidos)
+
 
 - **./algoritmos**: Contém soluções para algoritmos e exemplos de técnicas.
--     ...
 - **./Beecrowd**: Soluções para problemas do Beecrowd.
--     ...
 - **./CSES**: Soluções para problemas do CSES.
--     ...
 - **./edabit**: Soluções para desafios do Edabit.
--     ...
 - **./LEETCODE**: Soluções para problemas do LeetCode.
--     ...
 - **./ListasDaInternet**:
--     ...
+
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
