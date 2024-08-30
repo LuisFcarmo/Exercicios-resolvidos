@@ -4,7 +4,7 @@ Este repositório contém soluções para exercícios de programação de vário
 
 ## Linguagens Usadas
 
-![inguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&repo=Exercicios-resolvidos&theme=tokyonight&layout=compact)
 
 ## Estrutura do Repositório
 
