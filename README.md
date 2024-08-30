@@ -4,7 +4,7 @@ Este repositório contém soluções para exercícios de programação de vário
 
 ## Linguagens Usadas
 
-![Linguagens](https://img.shields.io/github/languages/top/LuisFcarmo/Exercicios-resolvidos/?style=flat&logo=github)
+![inguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFcarmo&layout=compact)
 
 ## Estrutura do Repositório
 
